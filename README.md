@@ -29,10 +29,11 @@ fake-news-rag/
 
 ## Setup Instructions
 ### Dataset Recommendation
-Dataset Name: Fake and Real News Dataset
-Where to Download:
-Go to Kaggle: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
-Or search: "fake and real news dataset kaggle"
+- Dataset Name: Fake and Real News Dataset
+- Where to Download:
+- Go to Kaggle: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+- Or
+- search: "fake and real news dataset kaggle"
 ### Backend Setup
 ```powershell
 cd backend
