@@ -1,0 +1,15 @@
+# React / Node stuff
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.development.local
+
+# Old Python venv (if still there)
+venv/
+.venv/
+env/
+True.csv
+Fake.csv
+news.csv
