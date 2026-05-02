@@ -86,3 +86,11 @@ npm run dev
 - `POST /predict` — Analyze news text
   - Body: `{ "text": "news article..." }`
   - Returns: `{ "prediction", "confidence", "reasons", "retrieved_articles", "breakdown" }`
+## 📜 License
+Copyright (c) 2024
+This project is open-source and available under the MIT License.
+
+---
+
+### 📝 Note
+This project was built for educational purposes to understand the "behind the scenes" of web development before moving on to more advanced frameworks.
