@@ -167,4 +167,3 @@ This project is licensed under the **MIT License**.
   Built with ❤️ for educational purposes<br/>
   <sub>Learning RAG systems through Fake News Detection</sub>
 </p>
-```
