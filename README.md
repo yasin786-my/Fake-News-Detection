@@ -167,8 +167,8 @@ Welcome! We are glad you're here.
 3. Submit a Pull Request.
 
 **Current Maintainers:**
-- [Yasin786-MY]
-- [Sivaneshan-Vasanth]
+- Yasin786-MY
+- Sivaneshan-Vasanth
 ---
 ## 📄 License
 This project is licensed under the **MIT License**.
