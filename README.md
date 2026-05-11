@@ -157,7 +157,19 @@ npm run dev
 | POST   | `/predict`     | Predict fake/real news       |
 
 ---
+# Contributing to this Project
 
+Welcome! We are glad you're here. 
+
+### How to help:
+1. Fork the repo.
+2. Create a new branch.
+3. Submit a Pull Request.
+
+**Current Maintainers:**
+- [Yasin786-MY]
+- [Sivaneshan-Vasanth]
+---
 ## 📄 License
 This project is licensed under the **MIT License**.
 
